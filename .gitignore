@@ -1,0 +1,6 @@
+# Ignore the entire "odoo" folder
+odoo-17.0.post20240127/
+
+# Allow specific files within the "odoo" folder
+odoo-17.0.post20240127/odoo/addons/web/static/src/webclient/webclient.js 
+odoo-17.0.post20240127/odoo/addons/web/static/src/webclient/user_menu/user_menu_items.js
